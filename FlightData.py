@@ -14,8 +14,8 @@ LA_MIN = 49.9028
 LA_MAX = LA_MIN + 2
 LO_MIN = 3.4862
 LO_MAX = LO_MIN +2
-OS_USER = 'rubendebbaudt'
-OS_PASS = '!pH9J9*fBUnp'
+OS_USER = #put login here
+OS_PASS = #put pass here
 
 data = np.empty((0, 6), int)
 
